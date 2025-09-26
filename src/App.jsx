@@ -95,7 +95,7 @@ export default function App() {
           Interested in collaborating or learning more about my work? Reach out anytime.
         </p>
         <a
-          href="mailto:info@godwinacheampong.com"
+          href="mailto:godwinacheampong89@gmail.com"
           className="inline-block bg-blue-600 text-white font-semibold px-6 py-3 rounded-2xl shadow hover:bg-blue-700 transition"
         >
           Send an Email
