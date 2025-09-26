@@ -56,7 +56,8 @@ export default function App() {
             </div>
             <div className="bg-white p-6 rounded-2xl shadow">
               <h4 className="font-semibold text-xl">Data Scientist</h4>
-              <p className="text-gray-600 mt-2">Worked with Python, PySpark, Airflow, MLFlow, and AWS to improve churn and demand predictions.</p>
+              <p className="text-gray-600 mt-2">Delivered data-driven solutions using Python, PySpark, Airflow, MLflow, and AWS, while also working with modern analytics, visualization, and cloud tools. Built scalable data pipelines, optimized machine learning models,
+                 and developed predictive systems to improve decision-making across multiple domains.</p>
             </div>
             <div className="bg-white p-6 rounded-2xl shadow">
               <h4 className="font-semibold text-xl">Synthetic Data Expert – Fair AI</h4>
@@ -64,11 +65,13 @@ export default function App() {
             </div>
             <div className="bg-white p-6 rounded-2xl shadow">
               <h4 className="font-semibold text-xl">Data Consultant</h4>
-              <p className="text-gray-600 mt-2">Consulted on data projects using Azure and related cloud tools.</p>
+              <p className="text-gray-600 mt-2">Advised organizations on designing and implementing data strategies. Worked with cloud platforms and modern data warehouses to deliver tailored solutions in analytics,
+                 business intelligence, and workflow automation.</p>
             </div>
             <div className="bg-white p-6 rounded-2xl shadow">
               <h4 className="font-semibold text-xl">Technology Trainer</h4>
-              <p className="text-gray-600 mt-2">Delivered training on Power Automate, teaching companies to optimize workflows and automate processes.</p>
+              <p className="text-gray-600 mt-2">Delivered technical training to professionals and teams on Python, Power Automate, and data science fundamentals. Designed hands-on courses and workshops covering automation, 
+                analytics, and applied AI to help organizations upskill their workforce.</p>
             </div>
             <div className="bg-white p-6 rounded-2xl shadow">
               <h4 className="font-semibold text-xl">Data Science Intern</h4>
