@@ -51,7 +51,8 @@ export default function App() {
           <div className="grid gap-8 md:grid-cols-2">
             <div className="bg-white p-6 rounded-2xl shadow">
               <h4 className="font-semibold text-xl">Supervisor AI</h4>
-              <p className="text-gray-600 mt-2">Oversaw AI in finance to ensure fair markets, assess compliance, and support policies like the AI Act.</p>
+              <p className="text-gray-600 mt-2">Assess and supervise the deployment of AI and algorithmic systems within financial institutions to ensure transparency, 
+                fairness, and compliance. Evaluate models for robustness, bias, and regulatory alignment, while identifying systemic and operational risks.</p>
             </div>
             <div className="bg-white p-6 rounded-2xl shadow">
               <h4 className="font-semibold text-xl">Data Scientist</h4>
