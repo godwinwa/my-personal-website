@@ -56,7 +56,7 @@ export default function App() {
             </div>
             <div className="bg-white p-6 rounded-2xl shadow">
               <h4 className="font-semibold text-xl">Data Scientist</h4>
-              <p className="text-gray-600 mt-2">Delivered data-driven solutions using Python, PySpark, Airflow, MLflow, and AWS, while also working with modern analytics, visualization, and cloud tools. Built scalable data pipelines, optimized machine learning models,
+              <p className="text-gray-600 mt-2">Delivered data-driven solutions using Python, PySpark, Airflow, MLflow, Azure and AWS, while also working with modern analytics, visualization, and cloud tools. Built scalable data pipelines, optimized machine learning models,
                  and developed predictive systems to improve decision-making across multiple domains.</p>
             </div>
             <div className="bg-white p-6 rounded-2xl shadow">
@@ -80,6 +80,25 @@ export default function App() {
           </div>
         </div>
       </section>
+
+            {/* Companies Section */}
+      <section id="companies" className="py-20 bg-white">
+        <div className="max-w-6xl mx-auto px-6 text-center">
+          <h3 className="text-3xl font-bold mb-12">Companies I’ve Worked With</h3>
+          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8 items-center">
+            {/* Replace these logo file names with your own */}
+            <img src="/logos/company1.png" alt="Company 1" className="h-12 mx-auto grayscale hover:grayscale-0 transition" />
+            <img src="/logos/company2.png" alt="Company 2" className="h-12 mx-auto grayscale hover:grayscale-0 transition" />
+            <img src="/logos/company3.png" alt="Company 3" className="h-12 mx-auto grayscale hover:grayscale-0 transition" />
+            <img src="/logos/company4.png" alt="Company 4" className="h-12 mx-auto grayscale hover:grayscale-0 transition" />
+            <img src="/logos/company5.png" alt="Company 5" className="h-12 mx-auto grayscale hover:grayscale-0 transition" />
+            <img src="/logos/company6.png" alt="Company 6" className="h-12 mx-auto grayscale hover:grayscale-0 transition" />
+            <img src="/logos/company7.png" alt="Company 7" className="h-12 mx-auto grayscale hover:grayscale-0 transition" />
+            <img src="/logos/company8.png" alt="Company 8" className="h-12 mx-auto grayscale hover:grayscale-0 transition" />
+          </div>
+        </div>
+      </section>
+
 
       {/* Education Section */}
       <section id="education" className="py-20 max-w-5xl mx-auto px-6">
