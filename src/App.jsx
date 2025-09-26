@@ -17,10 +17,14 @@ export default function App() {
       {/* Hero Section */}
       <section className="bg-gradient-to-r from-blue-600 to-indigo-700 text-white py-24">
         <div className="max-w-4xl mx-auto text-center px-6">
-          <h2 className="text-4xl md:text-5xl font-extrabold mb-6">Delivering AI Solutions & Training</h2>
-          <p className="text-lg md:text-xl mb-8 leading-relaxed">
-            I'm Godwin Acheampong, a data specialist specializing in AI, machine learning, and data-driven solutions.
-            I also offer technical training to help companies upskill their teams in Python and data science.
+          <img
+            src="/profile.jpeg"
+            alt="Godwin Acheampong"
+            className="w-40 h-40 mx-auto mb-6 rounded-full shadow-lg border-4 border-white object-cover"
+          />
+          <h2 className="text-4xl md:text-5xl font-extrabold mb-4">Godwin Acheampong</h2>
+          <p className="text-lg md:text-xl mb-8 leading-relaxed max-w-2xl mx-auto">
+            Delivering AI solutions, data-driven innovation, and technical training.
           </p>
           <a
             href="#contact"
