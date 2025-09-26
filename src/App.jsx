@@ -130,11 +130,14 @@ export default function App() {
       </section>
 
       {/* Footer */}
-      <footer className="bg-gray-800 text-gray-300 py-6">
-        <div className="max-w-6xl mx-auto px-6 text-center">
-          <p>© {new Date().getFullYear()} Godwin Acheampong. All rights reserved.</p>
-        </div>
-      </footer>
+    <footer className="bg-gray-800 text-gray-300 py-6">
+      <div className="max-w-6xl mx-auto px-6 text-center space-y-2">
+        <p>© {new Date().getFullYear()} Godwin Acheampong. All rights reserved.</p>
+        <p className="text-sm text-gray-400">
+          🚀 Built by me using React, Tailwind & Netlify
+        </p>
+      </div>
+    </footer>
     </div>
   );
 }
